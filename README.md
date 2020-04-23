@@ -1,2 +1,8 @@
-# hellowolrd
-basic html page displaying hello wolrd
+<html>
+    <head>
+  <title>my first html page</title>
+    </head> 
+    <body>
+      hello world
+    </body>
+</html>
